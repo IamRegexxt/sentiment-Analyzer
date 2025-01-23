@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu May 30 04:51:58 2024
-@author: Anna
-"""
 
 from flask import Flask, request, jsonify
 from flask_cors import CORS
