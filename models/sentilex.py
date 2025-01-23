@@ -14,7 +14,7 @@ from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
 # Load the dataset
-data = pd.read_csv('multilingual-trainset.csv')
+data = pd.read_csv('data/multilingual-trainset.csv')
 
 
 # Function to preprocess text
